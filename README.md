@@ -18,7 +18,7 @@ Aplicação Teste Backend para avaliação da Web Jump. Esta app foi desenvolvid
 ```sh
 docker-compose up
 ```
-4 - Aguardar a inicialização dos dois containers e realizar os acessos.</br>
+3 - Aguardar a inicialização dos dois containers e realizar os acessos.</br>
 
  ## URL de Execução:
 <p>WEB: http://localhost</p>
